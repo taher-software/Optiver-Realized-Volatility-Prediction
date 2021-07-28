@@ -1,0 +1,2 @@
+# Optiver-Realized-Volatility-Prediction
+In financial markets, volatility captures the amount of fluctuation in prices. For trading firms like Optiver, accurately predicting volatility is essential for the trading of options, whose price is directly related to the volatility of the underlying product.In this Kaggle competition,we had built models that predict short-term volatility for hundreds of stocks across different sectors. Our models will be evaluated against real market data collected in the three-month evaluation period after training.
