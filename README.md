@@ -28,13 +28,13 @@ To get a local copy up and running follow these simple example steps.
 - Clone this project by the command: 
 
 ```
-$ git clone git@github.com:Taher-web-dev/CommonLit-Readability-Prize.git
+$ git clone git@github.com:Taher-web-dev/Optiver-Realized-Volatility-Prediction.git
 ```
 
 - Then go to the main folder using the next command:
 
 ```
-$ cd CommonLit-Readability-Prize
+$ cd Optiver-Realized-Volatility-Prediction
 ```
 
 
